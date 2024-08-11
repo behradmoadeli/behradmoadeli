@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My Name is Behrad 'Brad' Moadeli. I am currently a PhD candidate at the University of Alberta. I'm majoring in Chemical Engineering Process Control.
+
+I am currently working on my first paper. I intend to use Github to have some sort of version control over my project, as well as sharing them with my team!
